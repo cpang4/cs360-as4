@@ -1,7 +1,7 @@
 ## Claire Pang
 ## Assignment 4 - CS360
 
-These visualizations use [airline data](https://think.cs.vt.edu/corgis/csv/airlines/airlines.html) from the CORGIS dataset project.
+These visualizations use [airline data](https://think.cs.vt.edu/corgis/csv/airlines/airlines.html) from the CORGIS dataset project.   
 Reference used for adding title, labels for axes, and using margins/padding [here](http://www.d3noob.org/2012/12/adding-axis-labels-to-d3js-graph.html)
 
 [Bar chart](http://bl.ocks.org/cpang4/0ebb49c9b1d475358f5f7e5205bab5ae)   
