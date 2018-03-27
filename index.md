@@ -1,37 +1,26 @@
-## Welcome to GitHub Pages
+## Claire Pang
+## Assignment 4 - CS360
 
-You can use the [editor on GitHub](https://github.com/cpang4/cs360-as4/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+These visualizations use [airline data](https://think.cs.vt.edu/corgis/csv/airlines/airlines.html) from the CORGIS dataset project.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+[Bar chart](http://bl.ocks.org/cpang4/0ebb49c9b1d475358f5f7e5205bab5ae)   
+The number of cancelled flights in 2016 from major airports.
 
-### Markdown
+[Line chart](https://bl.ocks.org/cpang4/a90739764bbfb8bc8539273cdded2916)   
+The number of cancelled flights from SFO, 2003-2016.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+[Bivariate Scatterplot](https://bl.ocks.org/cpang4/ee561bec0d502f62048bb107cf510836)   
+The number of cancelled flights vs the number of delayed flights from SFO, where each point represents the reported amounts in a month, 2003-2016.
 
-```markdown
-Syntax highlighted code block
+[Trivariate Scatterplot](https://bl.ocks.org/cpang4/068361272f17a96cefc22866db098bb7)   
+The number of cancelled flights vs the number of delayed flights from SFO, LAX, and EWR, where each point represents the reported amounts in a month, 2003-2016.
 
-# Header 1
-## Header 2
-### Header 3
+[Trellis plot](https://bl.ocks.org/cpang4/1817a17c798aa3c93a1378ba0f2b8875)   
+The number of cancelled vs number of delayed flights from SFO, LAX, and EWR, where each point represents the reported amounts in a month, 2003-2016.
 
-- Bulleted
-- List
+[Scatterplot matrix](https://bl.ocks.org/cpang4/1697c2a3811ade350649185318bea292)   
+A scatterplot matrix comparing delays at SFO due to *Carrier, Weather,* or *Security* where each point represents the reported amounts in a month, 2003-2016.
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/cpang4/cs360-as4/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+(extra credit)   
+[Parallel coordinates](https://bl.ocks.org/cpang4/1ae18a5837ade89139e53e41a2a2fddd)   
+The number of delays due to *Carrier (airline), Weather,* or *Security* from SFO, where each parallel coordinate represents the reported amounts in a month, 2003-2016.
